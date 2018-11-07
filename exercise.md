@@ -1,6 +1,7 @@
 Exercise: https://adventofcode.com/2016/day/5
 
 Modifications:
+* Your input is `golang`
 * Your password has **4** characters
 * The hexadecimal representation has to start with **3** zeros and it's **4th** character is a character of your password
 
